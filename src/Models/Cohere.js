@@ -34,7 +34,7 @@ const Cohere = () => {
         accept: 'application/json',
         'Cohere-Version': '2021-11-08',
         'content-type': 'application/json',
-        authorization: 'Bearer 8Go3tQcgF1u3SYIeqKJbMOYJtErrF1DME8ptSawl'
+        authorization: 'CENSORED'
       },
       data: {
         model: 'command-xlarge-20221108', 

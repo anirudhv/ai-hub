@@ -5,7 +5,7 @@ import '../App.css';
 
 const GPT3 = () => {
 	const configuration = new Configuration({
-  		apiKey: "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",
+  		apiKey: "CENSORED",
 	});
 	const openai = new OpenAIApi(configuration);
 
